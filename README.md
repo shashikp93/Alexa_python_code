@@ -28,7 +28,7 @@ Before you begin, make sure you have the following:
     2. End to End Demo
 
 ## 1 ===== Step-by-step guide to building an interaction model
-# Step 1: Log into the Alexa Developer Console [here] (https://developer.amazon.com/en-US/alexa/)
+# Step 1: Log into the Alexa Developer Console(https://developer.amazon.com/en-US/alexa/)
   Log in to the Amazon Developer Console using your Amazon account.
 
 # Step 2: Create a New Skill
