@@ -23,7 +23,7 @@ Before you begin, make sure you have the following:
 
 ## Setting up and deploying an Alexa skill using AWS Lambda involves several steps. 
 ## Here's a step-by-step guide on how to accomplish this:
-  # There are two parts first will be :
+  # There are two parts in this file:
     1. Step-by-step guide to building an interaction model for a simple Alexa skill.
     2. End to End Demo
 
